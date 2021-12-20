@@ -4,11 +4,11 @@ En esta ocasion vamos a cargar los productos a buscar desde los features y nos d
 # Estructura
 Agregamos 2 Runner mas
 1. BusquedaFallida
-2. VariasBusquedas(Donde esta el background con los 2 Scenarios)
+2. VariasBusquedas
 
 Agregamos 2 Features mas:
-1. (Busqueda Exitosa y Fallida)
-2. el segundo es donde utilizamos Background y realizamos minimo 2 Scenarios
+1. BusquedaFallida(Busqueda Exitosa y Fallida)
+2. VariasBusquedas (utilizamos Background y realizamos minimo 2 Scenarios)
 
 [![estructura.png](https://i.postimg.cc/vm73rZRX/estructura.png)](https://postimg.cc/HJxwHHk7)
 
