@@ -6,6 +6,7 @@ Agregamos 2 Runner mas para cada caso propuesto en el reto
 y agregamos 2 Features mas:
 1. (Busqueda Exitosa y Fallida)
 2. el segundo es donde utilizamos Background y realizamos minimo 2 Scenarios
+
 [![estructura.png](https://i.postimg.cc/vm73rZRX/estructura.png)](https://postimg.cc/HJxwHHk7)
 
 
