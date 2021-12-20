@@ -17,5 +17,5 @@ Enviando productos desde el Feature.
 # Background con 2 Scenarios
 [![2-Scenarios.png](https://i.postimg.cc/FsRrwYDd/2-Scenarios.png)](https://postimg.cc/XXR6CYM4)
 
-# Sceenario Fallido Y Exitoso
+# Scenario Fallido Y Exitoso
 [![Busqueda-fallida.png](https://i.postimg.cc/FKthfDm3/Busqueda-fallida.png)](https://postimg.cc/bZR7W0Zw)
