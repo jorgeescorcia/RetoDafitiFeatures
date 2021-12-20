@@ -2,8 +2,11 @@
 En esta ocasion vamos a cargar los productos a buscar desde los features y nos desde el excel como anteriormente se hizo
 
 # Estructura
-Agregamos 2 Runner mas para cada caso propuesto en el reto
-y agregamos 2 Features mas:
+Agregamos 2 Runner mas
+1. BusquedaFallida
+2. VariasBusquedas(Donde esta el background con los 2 Scenarios)
+
+Agregamos 2 Features mas:
 1. (Busqueda Exitosa y Fallida)
 2. el segundo es donde utilizamos Background y realizamos minimo 2 Scenarios
 
